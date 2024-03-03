@@ -1,0 +1,6 @@
+@OnionArcExample.WebAPI_HostAddress = http://localhost:5286
+
+GET {{OnionArcExample.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
